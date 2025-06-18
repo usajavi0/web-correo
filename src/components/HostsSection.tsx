@@ -15,7 +15,7 @@ const HostsSection: React.FC = () => {
             {/* --- INICIO DE LA MODIFICACIÓN --- */}
             
             <img
-              src="/logo-reprogramarte.jpg" // Usamos la nueva ruta y nombre de archivo correctos
+              src="/Logo-reprogramarte.jpg" // Usamos la nueva ruta y nombre de archivo correctos
               alt="Logo de El Arte de Reprogramarte"
               className="h-32 w-32 flex-shrink-0 rounded-full object-cover" // Estilos aplicados directamente a la imagen
             />
