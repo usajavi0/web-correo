@@ -13,8 +13,9 @@ const HostsSection: React.FC = () => {
           <div className="flex flex-col @[520px]:flex-row gap-4 items-center @[520px]:items-start">
             
             {/* --- INICIO DE LA MODIFICACIÓN --- */}
+            
             <img
-              src="/Logo-reprogramarte.jpg" // Usamos la nueva ruta y nombre de archivo correctos
+              src="/logo-reprogramarte.jpg" // Usamos la nueva ruta y nombre de archivo correctos
               alt="Logo de El Arte de Reprogramarte"
               className="h-32 w-32 flex-shrink-0 rounded-full object-cover" // Estilos aplicados directamente a la imagen
             />
